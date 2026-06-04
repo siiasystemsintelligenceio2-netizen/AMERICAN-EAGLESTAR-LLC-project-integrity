@@ -1,43 +1,45 @@
----
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: "[PROJECT IDEAS]"
-labels: documentation, enhancement, help wanted, question
-assignees: siiasystemsintelligenceio2-netizen
+Project Idea Template
+About
+Describe this issue template's purpose here.
 
----
+Title
+[PROJECT IDEAS]
 
-Describe the bug
-A clear and concise description of what your Idea is.
+Labels
+documentation, enhancement, help wanted, question
 
-To Reproduce
-Steps to creating your idea:
+Assignees
+siiasystemsintelligenceio2-netizen
 
-Go to 'copilot'
-Describe your new idea 'in chat'
-Download Any 'New Material or CODE'
-Upload To 'Optional Idea Submission'
-Continue On With 'Active Development'
-A clear and concise description of what you expected to happen.
+1. Idea Description
+Provide a clear and concise description of your project idea.
 
-Screenshots
+2. Steps to Create Your Idea
+Go to 'copilot.'
+Describe your new idea 'in chat.'
+Download any 'New Material or CODE.'
+Upload to 'Optional Idea Submission.'
+Continue with 'Active Development.'
+3. Expected Outcome
+Clearly and concisely describe what you expected to happen.
+
+4. Screenshots (Optional)
 If applicable, add screenshots to help explain your Project Idea.
 
-Desktop (please complete the following information):
+5. Environment (Please complete the following information)
+Desktop
+OS: [e.g., iOS]
+Browser: [e.g., Chrome, Safari]
+Version: [e.g., 22]
+Smartphone
+Device: [e.g., iPhone 6]
+OS: [e.g., iOS 8.1]
+Browser: [e.g., Stock Browser, Safari]
+Version: [e.g., 22]
+6. Additional Context (Optional)
+Add any other relevant context about your project idea.
 
-OS: [e.g. iOS]
-Browser [e.g. chrome, safari]
-Version [e.g. 22]
-Smartphone (please complete the following information):
-
-Device: [e.g. iPhone6]
-OS: [e.g. iOS8.1]
-Browser [e.g. stock browser, safari]
-Version [e.g. 22]
-Additional context
-Add any other context about the problem here.
-
-Optional additional items
+Optional Additional Items
 Issue default title:
 Assignees:
 Labels:
